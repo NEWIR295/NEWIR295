@@ -99,7 +99,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
   
 ## 📊 GitHub Stats
 
-![NEWIR295's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEWIR295&show_icons=true&theme=dracula)
+![NEWIR295's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEWIR295&show_icons=true&theme=dark)
 
 ![NEWIR295's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEWIR295&layout=compact&theme=radical)
 
