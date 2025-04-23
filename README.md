@@ -59,7 +59,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 - **Embedded Linux Diploma**\ (Jan 2025 - Jul 2025)
   Edges For Training
 
-  - Included Linux Administration, CMake, Bash Scripts, Embedded Linux Drivers, Yocto, QT++.
+  - Included Linux Administration, CMake, Bash Scripts, Embedded Linux Drivers, Buildroot, Yocto, QT++.
   - [Course Github Repo](https://github.com/NEWIR295/EMBEDDED_LINUX)
     
 ## 🚀 Featured Projects
