@@ -70,6 +70,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 - Wrote drivers and ROS nodes (C++ and Python) for motion control, kinematics, PID tuning, and SLAM-based navigation.
 - Modeled and simulated the robot in RViz and Gazebo.
 - [Project Github Repo](https://github.com/NEWIR295/Agribot)
+- [Linkedin Post](https://www.linkedin.com/posts/mohamed-newir-a8a572182_agribot-precisionagricultural-weedmanagement-activity-7223205542612090880-7WmM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACsnZooBeVyXnTD61DNSYc-EvhkA0-pzmts)
 
 ### Olympics Robot Project
 
@@ -84,6 +85,11 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 - Wrote ROS nodes (Python and C++) for control and navigation, and implemented SLAM algorithms.
 - Created a GUI for PID tuning.
 - [Project Github Repo](https://github.com/NEWIR295/N_TURTLEBOT)
+
+### Embedded Linux Device Drivers Project
+
+- Create a custom image and device drivers to work with QEMU.
+- [Project Github Repo](https://github.com/NEWIR295/EMBEDDED_LINUX/tree/main/Embedded_Linux_Drivers/Buildroot_Project)
 
 ### Adaptive Temperature Control Project
 
