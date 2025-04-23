@@ -90,6 +90,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 
 - Create a custom image and device drivers to work with QEMU.
 - [Project Github Repo](https://github.com/NEWIR295/EMBEDDED_LINUX/tree/main/Embedded_Linux_Drivers/Buildroot_Project)
+- [Linkedin Post](https://www.linkedin.com/posts/mohamed-newir-a8a572182_embeddedlinux-linuxkernel-devicedrivers-activity-7320695384018763777-iupW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACsnZooBeVyXnTD61DNSYc-EvhkA0-pzmts)
 
 ### Adaptive Temperature Control Project
 
