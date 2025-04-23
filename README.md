@@ -108,7 +108,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 
 ![NEWIR295's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEWIR295&layout=compact&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NEWIR295&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NEWIR295&theme=dark)
 
 ## 🌐 Connect with Me
 
