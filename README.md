@@ -92,7 +92,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 - [Project Github Repo](https://github.com/NEWIR295/EMBEDDED_LINUX/tree/main/Embedded_Linux_Drivers/Buildroot_Project)
 - [Linkedin Post](https://www.linkedin.com/posts/mohamed-newir-a8a572182_embeddedlinux-linuxkernel-devicedrivers-activity-7320695384018763777-iupW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACsnZooBeVyXnTD61DNSYc-EvhkA0-pzmts)
 
-### Linux Administrator Project 
+### Linux Administration Project 
 
 - This project is divided into three parts, each one focusing on different aspects of system administration, scripting, and application development. The project involves Bash scripting, C programming, process management , advanced build systems and networking.
 
