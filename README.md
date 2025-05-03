@@ -88,7 +88,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 
 ### Embedded Linux Device Drivers Project
 
-- Create a custom image and device drivers to work with QEMU.
+- Create a custom image and device drivers to work with QEMU using Buildroot.
 - [Project Github Repo](https://github.com/NEWIR295/EMBEDDED_LINUX/tree/main/Embedded_Linux_Drivers/Buildroot_Project)
 - [Linkedin Post](https://www.linkedin.com/posts/mohamed-newir-a8a572182_embeddedlinux-linuxkernel-devicedrivers-activity-7320695384018763777-iupW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACsnZooBeVyXnTD61DNSYc-EvhkA0-pzmts)
 
@@ -110,6 +110,12 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 - Developed a C++ game using OOP techniques.
 - Implemented gameplay mechanics and a save/load system.
 - [Project Github Repo](https://github.com/NEWIR295/Snake-And-Ladder-Game)
+
+### Sudoku Game
+
+- Developed a C++ game using OOP techniques.
+- Implemented a gameplay, solve and generate new boards, and a save/load system.
+- [Project Github Repo](https://github.com/NEWIR295/SOFTWARE_DEVELPMENT/tree/main/CPP/Projects/Sudoku%20V1)
   
 ## 📊 GitHub Stats
 
