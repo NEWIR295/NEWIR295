@@ -19,6 +19,12 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 
 ## Experience
 
+### Embedded Systems Instructor
+
+**Information Technology Institute ( ITI )** (7/2025 – 8/2025)
+
+- Teaching AVR Embedded Diploma one month program at ITI – Cairo university branch.
+
 ### Research and Development Mechatronics Engineer
 
 **Namaa For Engineering Consultants** (Aug 2024 - Dec 2024)
@@ -85,6 +91,18 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 - Wrote ROS nodes (Python and C++) for control and navigation, and implemented SLAM algorithms.
 - Created a GUI for PID tuning.
 - [Project Github Repo](https://github.com/NEWIR295/N_TURTLEBOT)
+
+### Embedded Linux IoT Communication System Project
+
+- Built a modular IoT system using TCP socket programming in C++ for client-server communication.
+- Developed a Qt6-based GUI server with QML tabs for real-time monitoring, historical charts, and threshold settings.
+- Implemented console-based server and client applications for testing and development.
+- Created a Yocto-based client with a custom meta-layer, deployed on QEMU for embedded simulation.
+- Simulate temperature control logic with LED status updates based on threshold comparison.
+- Applied object-oriented design with abstract interfaces for scalability.
+- Demonstrated skills in embedded Linux, GUI development, networking, and system integration.
+- [Project Github Repo](https://github.com/NEWIR295/EMBEDDED_LINUX/tree/main/Embedded_Linux_Project)
+- [Linkedin Post]()
 
 ### Embedded Linux Device Drivers Project
 
