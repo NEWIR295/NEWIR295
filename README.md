@@ -31,6 +31,17 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 
 - Researched and developed new products using ROS, cameras, and embedded systems.
 
+### Graduation Project Mentor
+  
+**Cairo University** (Apr 2024 - Jul 2025)
+
+- As a mentor for the RoboMate graduation project, which focused on developing a warehouse robot for material
+handling. My role involved guiding the team in making the right technical decisions to avoid common pitfalls and
+providing hands-on training in Robot Operating System (ROS). I also designed the system’s blueprints to help
+the team follow a clear development roadmap. Beyond technical support, I offered motivation and psychological
+encouragement to ensure the team stayed confident and focused. And thanks to Allah, all of our efforts has
+succeeded where the project was shortlisted for the Graduation Project Excellence Award..
+
 ### Research and Development Engineer Trainee
 
 **Helwan Engineering House** (Jul 2023 - Aug 2023)
