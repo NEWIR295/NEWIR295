@@ -8,7 +8,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 
 ## Skills
 
-- 🤖 Robotics & ROS
+- 🤖 Robotics & ROS1/2
 - 🔧 Embedded Systems
 - 🐍 Python
 - 💻 C/C++11/14/17
