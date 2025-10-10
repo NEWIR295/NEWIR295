@@ -13,7 +13,7 @@ Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics 
 - 🐍 Python
 - 💻 C/C++11/14/17
 - 🐧 Linux Administration
-- 🛠️ Git, Makefiles, CMake, Buildroot, Yocto
+- 🛠️ Git, Makefiles, CMake, Buildroot, Yocto, Docker
 - 📟 Raspberry Pi & Electronics
 - 🧠 Problem Solving & Leadership
 
