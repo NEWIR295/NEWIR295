@@ -113,7 +113,7 @@ succeeded where the project was shortlisted for the Graduation Project Excellenc
 - Applied object-oriented design with abstract interfaces for scalability.
 - Demonstrated skills in embedded Linux, GUI development, networking, and system integration.
 - [Project Github Repo](https://github.com/NEWIR295/EMBEDDED_LINUX/tree/main/Embedded_Linux_Project)
-- [Linkedin Post]()
+- [Linkedin Post](https://www.linkedin.com/posts/mohamed-newir-a8a572182_embeddedlinux-linux-linuxdevelopment-activity-7353062771149701121-pgUE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACsnZooBeVyXnTD61DNSYc-EvhkA0-pzmts)
 
 ### Embedded Linux Device Drivers Project
 
@@ -144,7 +144,8 @@ succeeded where the project was shortlisted for the Graduation Project Excellenc
 
 - Developed a C++ game using OOP techniques.
 - Implemented a gameplay, solve and generate new boards, and a save/load system.
-- [Project Github Repo](https://github.com/NEWIR295/SOFTWARE_DEVELPMENT/tree/main/CPP/Projects/Sudoku%20V1)
+- [Project Github Repo](https://github.com/NEWIR295/Sudoku_Game_V2.git)
+- [Linkedin Post]()
   
 ## 📊 GitHub Stats
 
