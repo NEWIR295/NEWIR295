@@ -7,15 +7,10 @@
 Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics and Embedded Systems. With a unique blend of skills in mechanical, electrical, and software engineering, I excel in research and development, software, hardware, and design. My experience is backed by a strong portfolio of robotics and embedded systems projects, and I’m driven to contribute innovative solutions to cutting-edge technologies.
 
 ## Skills
-
-- 🤖 Robotics & ROS1/2
-- 🔧 Embedded Systems
-- 🐍 Python
-- 💻 C/C++11/14/17
-- 🐧 Linux Administration
-- 🛠️ Git, Makefiles, CMake, Buildroot, Yocto, Docker
-- 📟 Raspberry Pi & Electronics
-- 🧠 Problem Solving & Leadership
+- Programming Languages & Paradigms: C/C++ (11/14/17), OOP, Python, Bash Scripting
+- Systems & Tools: Linux Administration, Git, Makefiles, CMake, Buildroot, Yocto, Docker, QT, Socket Programming, ROS1/2
+- Hardware: Embedded Systems, Raspberry Pi, Electronics, Robotics
+- Soft Skills: Leadership, Project Management, Problem Solving, Technical Writing, Communication, Teaching,R&D
 
 ## Experience
 
