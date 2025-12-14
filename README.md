@@ -129,6 +129,12 @@ succeeded where the project was shortlisted for the Graduation Project Excellenc
 - Integrated Bluetooth for user interaction and programmed temperature regulation.
 - [Project Github Repo](https://github.com/NEWIR295/Embdded-Systems/tree/main/Arduino%20-%20%20Projects/adaptive%20Temprature%20Control)
 
+### Overhead Crane Project
+
+- Led the mechatronics sub-team for a machine design course project.
+- Organized group tasks and facilitated communication between team members to implement a factory electrical layout.
+- Developed an overhead crane system utilizing embedded systems and PLCs.
+
 ### Snake and Ladder Monopoly Game
 
 - Developed a C++ game using OOP techniques.
