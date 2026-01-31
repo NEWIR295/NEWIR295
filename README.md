@@ -4,7 +4,9 @@
 
 ## About Me
 
-Hello! I'm Mohamed, a passionate Mechatronics Engineer specializing in Robotics and Embedded Systems. With a unique blend of skills in mechanical, electrical, and software engineering, I excel in research and development, software, hardware, and design. My experience is backed by a strong portfolio of robotics and embedded systems projects, and I’m driven to contribute innovative solutions to cutting-edge technologies.
+Hello! I'm Newir, A graduate from Cairo University with a Bachelor's degree in Mechatronics Engineering specialized in Software Development, Robotics and Embedded Systems with solid understanding of hardware selection and development for them, supported by hands-on experience in C/C++11/14/17 for software development, as well as ROS1/2 and embedded systems, gained through my work in the Egyptian Defense Industry, part-time roles, teaching Embedded Systems diploma at ITI, mentoring Robotics graduation projects, training programs, my graduation project titled "Agribot for Precision Agriculture" and other several hobbyist projects. 
+
+And in another words i'm an R&D nerd passionate about leveraging technology and engineering to develop impactful solutions for either autonomous or unmanned systems.
 
 ## Skills
 - Programming Languages & Paradigms: C/C++ (11/14/17), OOP, Python, Bash Scripting
