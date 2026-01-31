@@ -1,6 +1,6 @@
-# Mohamed Abd El Twab Newir
+# Mohamed AbdElTwab Newir
 
-**Mechatronics Engineer | Robotics & Embedded Systems Specialist**
+**R&D Software Engineer | Robotics & Embedded Systems Specialist**
 
 ## About Me
 
